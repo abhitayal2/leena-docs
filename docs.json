@@ -1,0 +1,26 @@
+{
+  "title": "My Docs",
+  "description": "Documentation for my project",
+  "theme": {
+    "primary": "#007bff",
+    "secondary": "#6c757d"
+  },
+  "navigation": [
+    {
+      "label": "Getting Started",
+      "href": "/getting-started"
+    },
+    {
+      "label": "API Reference",
+      "href": "/api-reference"
+    }
+  ],
+  "footer": {
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/abhitayal2/leena-docs"
+      }
+    ]
+  }
+}
